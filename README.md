@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/juan-ramirez10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-ramirez10" height="30" width="40" /></a>
 <a href="https://instagram.com/juanp_ramirezg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juanp_ramirezg" height="30" width="40" /></a> 
-<a href="ramirezgutierrez32@gmail.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" alt="gmail "height="30" width="40"/>  </a>
+<a href="ramirezgutierrez32@gmail.com" target="_blank" rel="noreferrer" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" alt="gmail "height="30" width="40" />  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
