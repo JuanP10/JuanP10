@@ -69,15 +69,19 @@
   </tr>
 
 ## Contactame
-<a href="https://www.instagram.com/juanp_ramirezg/">
+<a href="https://www.instagram.com/juanp_ramirezg/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="mailto:ramirezgutierrez32@gmail.com">
+<a href="mailto:ramirezgutierrez32@gmail.com" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/juan-ramirez10/">
+<a href="https://www.linkedin.com/in/juan-ramirez10/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<a href="https://juanp10.github.io/Portafolio_V1" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/MiWeb.com-14a1f0?style=for-the-badge&logoColor=white&labelColor=101010">  
+</a>
+
 
 
 
