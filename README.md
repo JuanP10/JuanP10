@@ -85,7 +85,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://juanp10.github.io/Portafolio_V1" style="display: inline-block;">
+<a href="https://juanp10.github.io/Portfolio-Responsive/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/MiWeb.com-14a1f0?style=for-the-badge&logoColor=white&labelColor=101010">  
 </a>
 
