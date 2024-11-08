@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Juan Pablo Ramirez Gutierrez 🫡 </h1>
 </br>
-<h3 align="center">Un apasionado desarrollador full stack de Colombia, actualmente estudiante de Ingeniería de sistemas en la Universidad del Magdalena</h3>
+<h3 align="center">Estudiante de Ingeniería de Sistemas apasionado por la tecnología y el desarrollo de software. Con conocimientos sólidos en ciberseguridad, administración de sistemas, redes y ciencia de datos.</h3>
 
 </br>
 
