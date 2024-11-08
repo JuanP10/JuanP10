@@ -69,7 +69,7 @@
 ## Github Stats 
 
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanP10&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanP10&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/></td>
   </tr>
 
 ## Contactame
