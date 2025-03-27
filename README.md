@@ -30,7 +30,9 @@
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="27.5">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  </br>
+  <img src= "https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=fff&style=flat-square"height="27.5" >
+  <img src= "https://img.shields.io/badge/-Mockito-239120?style=for-the-badge&logo=mockito&logoColor=white">
+   </br>
 
   <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
@@ -80,6 +82,7 @@
 <img src= "https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
 <img src= "https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white">
 <img src= "https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white">
+<img src= "https://img.shields.io/badge/GRecon-green" height="27.5" >
 
   
 </p>
