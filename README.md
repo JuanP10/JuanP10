@@ -40,6 +40,7 @@
   <img src= "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src= "https://img.shields.io/badge/OAuth-1C1C1C?style=for-the-badge&logo=oauth&logoColor=white">
   
 
 </p>
@@ -82,7 +83,13 @@
 <img src= "https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
 <img src= "https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white">
 <img src= "https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white">
-<img src= "https://img.shields.io/badge/GRecon-green" height="27.5" >
+<img src= "https://img.shields.io/badge/Grecon-2E86C1?style=for-the-badge">
+<br>
+<img src= "https://img.shields.io/badge/Nmap-0048BA?style=for-the-badge&logo=nmap&logoColor=white">
+<img src= "https://img.shields.io/badge/Burp_Suite-FE5000?style=for-the-badge&logo=burpsuite&logoColor=white">
+<img src= "https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=aircrack-ng&logoColor=white">
+<img src= "ttps://img.shields.io/badge/John_the_Ripper-990000?style=for-the-badge">
+
 
   
 </p>
@@ -101,6 +108,7 @@
   <img src= "https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
   <img src= "https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+  <img src= "https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
 </p>
 
 </br>
@@ -125,7 +133,7 @@
 </a>
 
 <a href="https://juanp10.github.io/Portfolio-Responsive/" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/MiWeb.com-14a1f0?style=for-the-badge&logoColor=white&labelColor=101010">  
+    <img src="https://img.shields.io/badge/Mi_P%C3%A1gina_Web-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">  
 </a>
 
 
